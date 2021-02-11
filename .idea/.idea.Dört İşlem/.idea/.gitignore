@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Dört İşlem.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../:\Unity Projects\Dört İşlem\.idea\.idea.Dört İşlem\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
